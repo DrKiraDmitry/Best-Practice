@@ -9,7 +9,7 @@ But you need a lot of conditions to create these URL search parameters
 
 We can make things easier by using **new URLSearchParams**.
 
->'/get information?' + new parameters URLSearchParams({
+>'/getinfo?' + new parameters URLSearchParams({
 > <br/>delivery: id,
 > <br/>target_lat: targetLat,
 > <br/>target_lon: targetLon
